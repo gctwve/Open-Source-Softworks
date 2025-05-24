@@ -36,4 +36,4 @@ Fork the repo
 Create a new branch
 Commit your changes
 Open a pull request
-Please follow our [Contributing Guidelines](https://github.com/Open-Source-Softworks/OSS-Exec/blob/main/ContributingGuidlines.md).
+Please follow our [Contributing Guidelines](https://github.com/gctwve/Open-Source-Softworks-/blob/main/ContributingGuidelines.md).
