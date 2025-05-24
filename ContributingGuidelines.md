@@ -16,7 +16,7 @@ To contribute, you'll first want to get the project running locally. Here's the 
    cd oss-executor
     ```
 Install Requirements & Build
-Follow the instructions in the [README](https://github.com/Open-Source-Softworks/OSS-Exec/blob/main/README.md) to set up your build environment.
+Follow the instructions in the [README](https://github.com/gctwve/Open-Source-Softworks-/blob/main/README.md) to set up your build environment.
 We recommend Visual Studio (Windows) with C++17+ support.
 
 Create a Branch
