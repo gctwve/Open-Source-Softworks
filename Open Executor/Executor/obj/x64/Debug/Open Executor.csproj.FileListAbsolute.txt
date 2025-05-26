@@ -1,0 +1,105 @@
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\libcrypto-3-x64.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\libssl-3-x64.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Monaco\index.html
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Executor.exe.config
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Executor.exe
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\AeigisAPI.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\DiscordRPC.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Guna.UI2.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\QuorumAPI.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\SpashAPIXeno.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\DiscordRPC.pdb
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\DiscordRPC.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\Open Executor.csproj.AssemblyReference.cache
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.Properties.Resources.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\Open Executor.csproj.GenerateResource.cache
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\Open Executor.csproj.CoreCompileInputs.cache
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\Open Exe.674DDE6A.Up2Date
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\Executor.exe
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\Executor.pdb
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\bin\x64\Debug\Executor.pdb
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.Executor.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.MainUI.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.Login.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.Home.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.ScriptHub.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\obj\x64\Debug\executor.Settings.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\libcrypto-3-x64.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\libssl-3-x64.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Monaco\index.html
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Executor.exe.config
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Executor.exe
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Executor.pdb
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\AeigisAPI.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\DiscordRPC.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Guna.UI2.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\QuorumAPI.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\SpashAPIXeno.dll
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\DiscordRPC.pdb
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\DiscordRPC.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\Open Executor.csproj.AssemblyReference.cache
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.Executor.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.MainUI.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.Login.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.Home.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.Properties.Resources.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.ScriptHub.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\executor.Settings.resources
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\Open Executor.csproj.GenerateResource.cache
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\Open Executor.csproj.CoreCompileInputs.cache
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\Open Exe.674DDE6A.Up2Date
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\Executor.exe
+C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.2.0\Executor\obj\x64\Debug\Executor.pdb
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Open Executor.csproj.AssemblyReference.cache
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Executor.exe.config
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.Executor.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.MainUI.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.Login.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.Home.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.Properties.Resources.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.ScriptHub.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\executor.Settings.resources
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Open Executor.csproj.GenerateResource.cache
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Open Executor.csproj.CoreCompileInputs.cache
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Executor.exe
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Executor.pdb
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\libcrypto-3-x64.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\libssl-3-x64.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Monaco\index.html
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.exe.config
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.exe
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.pdb
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\DiscordRPC.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Guna.UI2.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\OSSApi.dll
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\DiscordRPC.pdb
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\DiscordRPC.xml
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\OSSApi.pdb
+C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\obj\x64\Debug\Open Exe.674DDE6A.Up2Date

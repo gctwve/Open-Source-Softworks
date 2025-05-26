@@ -1,0 +1,187 @@
+2/17/2025 1:15:25 PM: Error during application run
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'Discord IPC Client'.
+   at DiscordRPC.DiscordRpcClient.SetPresence(RichPresence presence) in /home/runner/work/discord-rpc-csharp/discord-rpc-csharp/DiscordRPC/DiscordRpcClient.cs:line 446
+   at OpenExecutor.MainUI.<timer2_Tick>d__42.MoveNext() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Form1.cs:line 525
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:02:03 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 184
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:02:04 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 184
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
+2/17/2025 2:03:07 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 184
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:03:07 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 184
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
+2/17/2025 2:06:05 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 184
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:06:06 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 184
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
+2/17/2025 2:08:14 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 188
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:08:15 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 188
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
+2/17/2025 2:09:52 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 188
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:09:52 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 188
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
+2/17/2025 2:11:17 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 183
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:11:17 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 183
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
+2/17/2025 2:11:37 PM: Error during application run
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 183
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   at System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   at System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 31
+
+2/17/2025 2:11:38 PM: Error initializing WebView2
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at OpenExecutor.Executor.timertick(Object sender, EventArgs e) in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Executor.cs:line 183
+   at System.Windows.Forms.Timer.OnTick(EventArgs e)
+   at System.Windows.Forms.Timer.TimerNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   at System.Windows.Forms.SafeNativeMethods.MessageBox(HandleRef hWnd, String text, String caption, Int32 type)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text)
+   at OpenExecutor.Program.Main() in C:\Users\dejxh\Desktop\Open Executor Update\Open Executor v1.1.7\Executor\Program.cs:line 37
+
