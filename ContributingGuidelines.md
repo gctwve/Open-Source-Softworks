@@ -12,7 +12,7 @@ To contribute, you'll first want to get the project running locally. Here's the 
    Click the "Fork" button in the top-right corner of the repo, then clone your fork:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/oss-executor.git
+   git clone https://github.com/gtcwve/Open-Source Softworks.com
    cd oss-executor
     ```
 Install Requirements & Build
