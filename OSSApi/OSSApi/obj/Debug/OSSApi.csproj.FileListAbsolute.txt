@@ -1,0 +1,6 @@
+C:\Users\calva\source\repos\OSSApi\OSSApi\bin\Debug\OSSApi.dll
+C:\Users\calva\source\repos\OSSApi\OSSApi\bin\Debug\OSSApi.pdb
+C:\Users\calva\source\repos\OSSApi\OSSApi\obj\Debug\OSSApi.csproj.AssemblyReference.cache
+C:\Users\calva\source\repos\OSSApi\OSSApi\obj\Debug\OSSApi.csproj.CoreCompileInputs.cache
+C:\Users\calva\source\repos\OSSApi\OSSApi\obj\Debug\OSSApi.dll
+C:\Users\calva\source\repos\OSSApi\OSSApi\obj\Debug\OSSApi.pdb
