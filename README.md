@@ -26,7 +26,7 @@ Welcome to the official repository for the **OSS Executor** – a free, open-sou
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/YourOrg/oss-executor.git
+git clone https://github.com/gctwve/Open-Source Softworks.com
 cd oss-executor
 
 ```
