@@ -1,3 +1,3 @@
-2025/05/25-21:22:22.855 4110 Reusing MANIFEST C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2025/05/25-21:22:22.902 4110 Recovering log #3
-2025/05/25-21:22:22.906 4110 Reusing old log C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 
+2025/05/28-13:20:14.799 2860 Reusing MANIFEST C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/28-13:20:14.805 2860 Recovering log #3
+2025/05/28-13:20:14.811 2860 Reusing old log C:\Users\calva\Downloads\OpenExecutor\Open Executor\Executor\bin\x64\Debug\Executor.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000003.log 

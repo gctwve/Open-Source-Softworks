@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\scripthub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\scripthub.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\scripthub.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\scripthub.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|solutionrelative:executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -35,11 +55,11 @@
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -47,16 +67,12 @@
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|c:\\users\\calva\\downloads\\openexecutor\\open executor\\executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|solutionrelative:executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Open Executor.csproj|solutionrelative:executor\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\executor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -101,10 +117,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|solutionrelative:executor\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{099F8884-07B8-43D2-B900-EE6A8CF3866F}|Executor\\Executor.csproj|solutionrelative:executor\\scripthub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -114,23 +126,49 @@
       "DocumentGroups": [
         {
           "DockedHeight": 334,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Settings.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs",
-              "RelativeDocumentMoniker": "Executor\\Settings.cs",
-              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs [Design]",
-              "RelativeToolTip": "Executor\\Settings.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ScriptHub.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.Designer.cs",
+              "RelativeDocumentMoniker": "Executor\\ScriptHub.Designer.cs",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.Designer.cs",
+              "RelativeToolTip": "Executor\\ScriptHub.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:22:58.082Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-28T17:19:16.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "ScriptHub.resx",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.resx",
+              "RelativeDocumentMoniker": "Executor\\ScriptHub.resx",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.resx",
+              "RelativeToolTip": "Executor\\ScriptHub.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-28T17:19:14.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScriptHub.cs",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
+              "RelativeDocumentMoniker": "Executor\\ScriptHub.cs",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
+              "RelativeToolTip": "Executor\\ScriptHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:18:59.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ScriptHub.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
               "RelativeDocumentMoniker": "Executor\\ScriptHub.cs",
@@ -142,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Login.cs",
               "RelativeDocumentMoniker": "Executor\\Login.cs",
@@ -154,19 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs",
-              "RelativeDocumentMoniker": "Executor\\Home.cs",
-              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs [Design]",
-              "RelativeToolTip": "Executor\\Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T13:25:40.484Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Form1.cs",
               "RelativeDocumentMoniker": "Executor\\Form1.cs",
@@ -178,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Executor.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Executor.cs",
               "RelativeDocumentMoniker": "Executor\\Executor.cs",
@@ -190,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "Executor.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Executor.cs",
               "RelativeDocumentMoniker": "Executor\\Executor.cs",
@@ -198,12 +224,35 @@
               "RelativeToolTip": "Executor\\Executor.cs",
               "ViewState": "AgIAAP8BAAAAAAAAAAAiwAkCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:22:57.199Z",
+              "WhenOpened": "2025-02-15T13:22:57.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Login.cs",
+              "RelativeDocumentMoniker": "Executor\\Login.cs",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Login.cs",
+              "RelativeToolTip": "Executor\\Login.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAiwD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:31:22.115Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "Settings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs",
+              "RelativeDocumentMoniker": "Executor\\Settings.cs",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs [Design]",
+              "RelativeToolTip": "Executor\\Settings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T13:22:58.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs",
               "RelativeDocumentMoniker": "Executor\\Home.cs",
@@ -211,25 +260,24 @@
               "RelativeToolTip": "Executor\\Home.cs",
               "ViewState": "AgIAAB0CAAAAAAAAAAAiwCECAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T16:20:08.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-16T16:20:08.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Form1.cs",
               "RelativeDocumentMoniker": "Executor\\Form1.cs",
               "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Form1.cs",
               "RelativeToolTip": "Executor\\Form1.cs",
-              "ViewState": "AgIAAFUCAAAAAAAAAAA+wGQCAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAIsBAAAAAAAAAAArwA8BAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-16T13:11:03.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs",
               "RelativeDocumentMoniker": "Executor\\Settings.cs",
@@ -237,12 +285,34 @@
               "RelativeToolTip": "Executor\\Settings.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAADgv24AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T13:22:58.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T13:22:58.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "ScriptHub.cs",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
+              "RelativeDocumentMoniker": "Executor\\ScriptHub.cs",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
+              "RelativeToolTip": "Executor\\ScriptHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T15:46:00.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs",
+              "RelativeDocumentMoniker": "Executor\\Home.cs",
+              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs [Design]",
+              "RelativeToolTip": "Executor\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T13:25:40.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ScriptHub.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
               "RelativeDocumentMoniker": "Executor\\ScriptHub.cs",
@@ -253,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "Api.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Api.cs",
               "RelativeDocumentMoniker": "Executor\\Api.cs",
@@ -261,12 +331,11 @@
               "RelativeToolTip": "Executor\\Api.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:14:08.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T00:14:08.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Settings.Designer.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.Designer.cs",
               "RelativeDocumentMoniker": "Executor\\Settings.Designer.cs",
@@ -274,25 +343,11 @@
               "RelativeToolTip": "Executor\\Settings.Designer.cs",
               "ViewState": "AgIAAPEAAAAAAAAAAAAAAPEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T00:46:25.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T00:46:25.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Login.cs",
-              "RelativeDocumentMoniker": "Executor\\Login.cs",
-              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Login.cs",
-              "RelativeToolTip": "Executor\\Login.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAMwHkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T13:31:22.115Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Login.Designer.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Executor\\Login.Designer.cs",
@@ -305,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Executor\\Form1.Designer.cs",
@@ -317,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Form1.cs",
               "RelativeDocumentMoniker": "Executor\\Form1.cs",
@@ -329,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs",
               "RelativeDocumentMoniker": "Executor\\Home.cs",
@@ -340,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Program.cs",
               "RelativeDocumentMoniker": "Executor\\Program.cs",
@@ -352,19 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ScriptHub.cs",
-              "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
-              "RelativeDocumentMoniker": "Executor\\ScriptHub.cs",
-              "ToolTip": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\ScriptHub.cs",
-              "RelativeToolTip": "Executor\\ScriptHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T15:46:00.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Executor.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Executor.cs",
               "RelativeDocumentMoniker": "Executor\\Executor.cs",
@@ -376,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Settings.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs",
               "RelativeDocumentMoniker": "Executor\\Settings.cs",
@@ -387,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Executor.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Executor.cs",
               "RelativeDocumentMoniker": "Executor\\Executor.cs",
@@ -398,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Home.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Home.cs",
               "RelativeDocumentMoniker": "Executor\\Home.cs",
@@ -410,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Form1.cs",
               "RelativeDocumentMoniker": "Executor\\Form1.cs",
@@ -421,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Settings.cs",
               "DocumentMoniker": "C:\\Users\\calva\\Downloads\\OpenExecutor\\Open Executor\\Executor\\Settings.cs",
               "RelativeDocumentMoniker": "Executor\\Settings.cs",
